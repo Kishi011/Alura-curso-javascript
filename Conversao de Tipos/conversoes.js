@@ -35,7 +35,7 @@ console.log('O usuário está logado? ' + String(usuarioLogado));
 let altura = '4';
 let largura = '5';
 
-console.log(+ largura * + altura);
+console.log('A área é: '+ (+ largura * + altura));
 // retorna 20
 
 let boolean = true
